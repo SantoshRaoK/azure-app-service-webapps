@@ -12,7 +12,8 @@ slots and autoscaling.
 - Resource Group: rg1
 - Region: Australia East
 - Subscription: Azure Subscription 1
-- Web App URL: https://webapp-testing1.azurewebsites.net
+- Web App : <img width="863" height="400" alt="Screenshot 2026-05-17 193120" src="https://github.com/user-attachments/assets/b4d9c854-b509-4536-9a97-3450b4077c16" />
+
 
 ## Web App Configuration
 
@@ -56,22 +57,21 @@ patching, scaling and security are all handled by Microsoft.
 ## Screenshots
 
 ### 1. Create Web App Configuration
-![Create Web App](screenshots/create-webapp.png)
+<img width="956" height="531" alt="Screenshot 2026-05-17 181758" src="https://github.com/user-attachments/assets/03fadd3d-0410-414b-94a0-61c73fa7b761" />
 
 ### 2. Web App Deployed - Review and Create
-![Deployment Review](screenshots/deployment-review.png)
+<img width="959" height="533" alt="Screenshot 2026-05-17 181905" src="https://github.com/user-attachments/assets/fbd42158-3cbe-4471-b0df-49c566c7d317" />
 
 ### 3. Kudu Console - Advanced Tools
-![Kudu Console](screenshots/kudu-console.png)
-
+<img width="953" height="422" alt="Screenshot 2026-05-17 192455" src="https://github.com/user-attachments/assets/075a6000-816c-48ca-a135-d12bd1cd94bd" />
 ### 4. File Manager - index.php Created
-![File Manager](screenshots/file-manager.png)
+<img width="944" height="474" alt="Screenshot 2026-05-17 192858" src="https://github.com/user-attachments/assets/95013783-7b3a-4445-b52a-cf7bbe6861db" />
 
 ### 5. Live Website Running on Azure
-![Live Website](screenshots/live-website.png)
+<img width="863" height="400" alt="Screenshot 2026-05-17 193120" src="https://github.com/user-attachments/assets/15ff92e5-5a95-4559-b135-5e390cfe0e2d" />
 
 ### 6. Web App Overview - Running Status
-![Web App Overview](screenshots/webapp-overview.png)
+<img width="956" height="475" alt="Screenshot 2026-05-17 210754" src="https://github.com/user-attachments/assets/db10f502-3249-4148-b437-faa517d4f9c4" />
 
 ## Key Concepts Learned
 
