@@ -16,8 +16,7 @@ slots and autoscaling.
 
 <p align="left">
   <img 
-    width="86" 
-    height="40" 
+    width="300" 
     alt="Web App Screenshot" 
     src="https://github.com/user-attachments/assets/15ff92e5-5a95-4559-b135-5e390cfe0e2d" 
   />
