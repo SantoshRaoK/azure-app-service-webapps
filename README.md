@@ -12,7 +12,7 @@ slots and autoscaling.
 - Resource Group: rg1
 - Region: Australia East
 - Subscription: Azure Subscription 1
-- Web App : <img width="863" height="400" alt="Screenshot 2026-05-17 193120" src="https://github.com/user-attachments/assets/b4d9c854-b509-4536-9a97-3450b4077c16" />
+- Web App URL : https://webapp-testing1.azurewebsites.net/
 
 
 ## Web App Configuration
