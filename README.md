@@ -64,6 +64,7 @@ patching, scaling and security are all handled by Microsoft.
 
 ### 3. Kudu Console - Advanced Tools
 <img width="953" height="422" alt="Screenshot 2026-05-17 192455" src="https://github.com/user-attachments/assets/075a6000-816c-48ca-a135-d12bd1cd94bd" />
+
 ### 4. File Manager - index.php Created
 <img width="944" height="474" alt="Screenshot 2026-05-17 192858" src="https://github.com/user-attachments/assets/95013783-7b3a-4445-b52a-cf7bbe6861db" />
 
