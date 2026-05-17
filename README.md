@@ -12,8 +12,16 @@ slots and autoscaling.
 - Resource Group: rg1
 - Region: Australia East
 - Subscription: Azure Subscription 1
-- Web App
-  <img width="86" height="40" alt="Screenshot 2026-05-17 193120" src="https://github.com/user-attachments/assets/15ff92e5-5a95-4559-b135-5e390cfe0e2d" />
+## Web App
+
+<p align="left">
+  <img 
+    width="86" 
+    height="40" 
+    alt="Web App Screenshot" 
+    src="https://github.com/user-attachments/assets/15ff92e5-5a95-4559-b135-5e390cfe0e2d" 
+  />
+</p>
 
 
 ## Web App Configuration
